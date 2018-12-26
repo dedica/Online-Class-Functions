@@ -6,7 +6,7 @@
 | 1 |
 +---+
 Declare the function named greeting. When this function is called,
-it prints: "<p>Welcome to the well structured code.</p>";
+it prints: "&lt;p&gt;Welcome to the well structured code.&lt;/p&gt;";
 */
 
 /*
