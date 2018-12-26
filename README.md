@@ -60,4 +60,31 @@ when it is called (with the value for price parameter).
 Print <strong><em>total</em></strong>.
 */
 
+
+
+
+
+// task separator
+echo "&lt;hr style=\"margin 1rem 0\"&gt;";
+
+/*
++---+
+| 4 |
++---+
+Declare the global variable <strong><em>length</em></strong> and assign it with the value 12.
+Declare the global variable <strong><em>width</em></strong> and assign it with the value 6.
+
+Declare the function named <strong><em>calculateRectangleArea</em></strong>. 
+
+This function calculates and prints the area of rectangle based on the 
+global variables <strong><em>length</em></strong> and <strong><em>width</em></strong>.
+
+Make these variables accessible inside the local scope, and do the calculation and printing
+*/
+
+/*
+Call the function.
+*/
+
+
 </pre>
