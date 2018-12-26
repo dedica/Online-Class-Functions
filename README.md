@@ -45,7 +45,7 @@ echo "&lt;hr style=\"margin 1rem 0\"&gt;";
 | 3 |
 +---+
 Declare the function named <strong><em>calculateTotalPrice</em></strong>. 
-This function has 1 parameter: price.
+This function has 1 parameter: <strong><em>price</em></strong>.
 <strong><em>calculateTotalPrice</em></strong> returns the total price after the tax of 13%.
 */
 
@@ -54,6 +54,10 @@ Declare the variable <strong><em>total</em></strong>
 and assign it with the value 
 that <strong><em>calculateTotalPrice</em></strong> outputs 
 when it is called (with the value for price parameter).
+*/
+
+/*
+Print <strong><em>total</em></strong>.
 */
 
 </pre>
