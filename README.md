@@ -22,7 +22,7 @@ echo "&lt;hr style=\"margin 1rem 0\"&gt;";
 
 /*
 +---+
-| 1 |
+| 2 |
 +---+
 
 */
