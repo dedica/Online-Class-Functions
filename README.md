@@ -87,4 +87,30 @@ Call the function.
 */
 
 
+
+
+
+// task separator
+echo "&lt;hr style=\"margin 1rem 0\"&gt;";
+
+/*
++---+
+| 5 |
++---+
+If you declare the function to calculate the area of a triangle:
+*/
+function calculateTriangleArea($base, $height) {
+    $area =  ($base * $height) / 2;
+}
+
+/*
+What can you do to make the <strong><em>$area</em></strong> accessible in global scope 
+(without using the return statement)?
+*/
+
+/*
+Choose the values for parameters and call the function.
+*/
+
+Print <strong><em>$area</em></em>.
 </pre>
