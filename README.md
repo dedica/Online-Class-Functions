@@ -97,7 +97,7 @@ echo "&lt;hr style=\"margin 1rem 0\"&gt;";
 +---+
 | 5 |
 +---+
-If you declare the function to calculate the area of a triangle:
+If the function for calculating the area of a triangle looks like this:
 */
 function calculateTriangleArea($base, $height) {
     $area =  ($base * $height) / 2;
